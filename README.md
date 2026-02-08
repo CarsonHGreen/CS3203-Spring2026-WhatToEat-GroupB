@@ -67,7 +67,7 @@ We will likely use the standard MIT License, but this is yet to be decided
 - Matthew Houston
 - Zachary Allen
 - Jack Barnes
-- Kaleb Meissner
+- Kaleb Messner
 - Noah Hicks
 - David Pham
 
