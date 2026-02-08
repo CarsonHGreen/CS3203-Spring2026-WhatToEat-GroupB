@@ -5,13 +5,13 @@ It does this by giving users recipes they can cook based on the ingredients they
 
 It is important to note that this README mirrors the progress of [project name], so anything that is currently a placeholder will be changed when appropriate.
 ## Table of Contents
-- [Installation](installation)
-- [Usage](usage)
-- [Current Status](current_status)
-- [Roadmap](roadmap)
-- [Support Contacts](support_contacts)
-- [License](License)
-- [Credits](Credits)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Current Status](#current_status)
+- [Roadmap](#roadmap)
+- [Support Contacts](#support_contacts)
+- [License](#License)
+- [Credits](#Credits)
 ## Installation
 While there is currently no way to install WhatToEat in a working manner, it is planned to be a fully-functional web-app
 ## Usage
