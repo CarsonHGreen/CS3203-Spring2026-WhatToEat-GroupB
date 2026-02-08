@@ -7,7 +7,7 @@ It is important to note that this README mirrors the progress of [project name],
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Current Status](#current_status)
+- [Current Status](#currentstatus)
 - [Roadmap](#roadmap)
 - [Support Contacts](#support_contacts)
 - [License](#License)
