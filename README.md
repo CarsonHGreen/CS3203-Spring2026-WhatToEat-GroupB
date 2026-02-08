@@ -3,7 +3,7 @@ WhatToEat is the all-in-one food managing program. At its core, WhatToEat is mea
 
 It does this by giving users recipes they can cook based on the ingredients they currently have. WhatToEat is planned to also have meal planning capabilities, an AI-driven recommendation system, and nutrition tracker, all working to make figuring out what to eat easy.
 
-It is important to note that this README mirrors the progress of [project name], so anything that is currently a placeholder will be changed when appropriate.
+It is important to note that this README mirrors the progress of WhatToEat, so anything that is currently a placeholder will be changed when appropriate.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -28,7 +28,7 @@ WhatToEat is still in the early programming phase, so there exists no working pr
 	- Based on the ingredients the user has, find recipes they are able to cook
 ### Phase 2: Additional Core Features
 - **Standardized UI**
-	- Create a standard UI to give [project name] a clean and professional style
+	- Create a standard UI to give WhatToEat a clean and professional style
 - **Accounts**
 	- Accounts help store ingredient information and past recipes per user. Also can be used for future informational storage
 - **Recommendation AI**
